@@ -3,7 +3,7 @@ package server
 import (
     "github.com/gin-gonic/gin"
 
-    "github.com/yamagn/night-challenge/controller"
+    "github.com/yamagn/qbox/controller"
 )
 
 func Init() {
